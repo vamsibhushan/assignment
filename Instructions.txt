@@ -1,0 +1,23 @@
+Instructions to run the Vite React app:
+
+1. Extract the contents of the zip file you received.
+2. Open a terminal or command prompt.
+3. Navigate to the extracted folder using the `cd` command.
+4. Run the following command to install the project dependencies:
+   npm install
+   # or
+   yarn install
+
+5. Once the installation is complete, start the development server with the following command:
+   
+   npm run dev
+   # or
+   yarn dev
+
+6. Open your web browser and visit http://localhost:3000 to see the running app.
+
+Note: Make sure you have Node.js and npm (or yarn) installed on your machine before running the above commands.
+
+If you encounter any issues, feel free to reach out for further assistance at vamsibhushan18@gmail.com.
+
+

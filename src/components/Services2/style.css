@@ -1,0 +1,88 @@
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    height:20px;
+    text-align: center;
+    width:auto;
+}
+.call-button{
+    width:110px;
+    margin-right: 40px;
+}
+.connect-button{
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.heading-a{
+    font-size: 30px;
+    margin-left:5px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+}
+.mid{
+    display: flex;
+    align-items: center;
+}
+.women{
+    height:130px;
+    width:150px;
+    margin-top: 0;
+}
+
+::placeholder{
+    color: black;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 30px;
+}
+.add-btn1{
+    display:flex;
+    width:60px;
+    margin: 0;
+    color: white;
+    padding:10px 38px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #27EDD5 0%, #358279 100%);
+    font-size: 20px;
+    
+}
+input{
+    padding:10px;
+    width:40vw;
+    border: 1px solid #949090;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.add-container{
+    width:50vw;
+    display: flex;
+    justify-content: center;
+    margin-top:10px;
+}
+label{
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: 550;
+}
+.price-suggestions{
+    display: flex;
+    justify-content: space-between;
+    width: 42vw;
+}
+.amount-input{
+    width:60%;
+}
+.price-text{
+    height: 18px;
+    padding:8px;
+    border-radius: 10px;
+    border: 2px solid #358279;
+    margin: 0;
+    text-align: center;
+}

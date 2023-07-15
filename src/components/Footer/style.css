@@ -1,0 +1,49 @@
+.footer{
+    width: 100%;
+    margin-top:35px;
+    height: 180px;
+    background-color: #3D7196;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.icon{
+    margin-right: 20px;
+    height:30px;
+}
+.icons{
+    padding:20px;
+    margin-left:60px;
+}
+.copy-text-container{
+    padding:20px;
+    margin-left:40px;
+}
+.copytext{
+    height:14px; 
+}
+.copy-icon{
+    height: 14px;
+    margin-right: 10px;
+    
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.second{
+    padding:7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    font-size: 16px;
+    width:600px;
+}
+
+.udline{
+    text-decoration: underline;
+}
